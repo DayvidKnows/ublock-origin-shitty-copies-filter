@@ -1,0 +1,1 @@
+Get-Content '*.txt' -Exclude 'combined-list.txt' | Out-File combined-list.txt
