@@ -9,6 +9,17 @@ duckduckgo.*##.results > div:has(a[href*="opensourcelibs.com"])
 duckduckgo.*##.results > div:has(a[href*="awesomeopensource.com"])
 duckduckgo.*##.results > div:has(a[href*="findbestopensource.com"])
 duckduckgo.*##.results > div:has(a[href*="githubhelp.com"])
+duckduckgo.*##.results > div:has(a[href*="pythonissues.com"])
+duckduckgo.*##.results > div:has(a[href*="golangrepo.com"])
+duckduckgo.*##.results > div:has(a[href*="gitmemory.cn"])
+duckduckgo.*##.results > div:has(a[href*="githubmate.com"])
+duckduckgo.*##.results > div:has(a[href*="reposhub.com"])
+duckduckgo.*##.results > div:has(a[href*="gitanswer.com"])
+duckduckgo.*##.results > div:has(a[href*="githubplus.com"])
+duckduckgo.*##.results > div:has(a[href*="pythonrepo.com"])
+duckduckgo.*##.results > div:has(a[href*="bestofcpp.com"])
+duckduckgo.*##.results > div:has(a[href*="github.innominds.com"])
+duckduckgo.*##.results > div:has(a[href*="www.higithub.com"])
 google.*##.g:has(a[href*="bleepcoder.com"])
 google.*##.g:has(a[href*="githubja.com"])
 google.*##.g:has(a[href*="gitmemory.com"])
@@ -31,18 +42,40 @@ searx.tiekoetter.com###urls > article:has(a[href*="*://opensourcelibs.com/*"])
 searx.tiekoetter.com###urls > article:has(a[href*="*://awesomeopensource.com/*"])
 searx.tiekoetter.com###urls > article:has(a[href*="*://findbestopensource.com/*"])
 searx.tiekoetter.com###urls > article:has(a[href*="*://githubhelp.com/*"])
+google.*##.g:has(a[href*="pythonissues.com"])
+google.*##.g:has(a[href*="golangrepo.com"])
+google.*##.g:has(a[href*="gitmemory.cn"])
+google.*##.g:has(a[href*="githubmate.com"])
+google.*##.g:has(a[href*="reposhub.com"])
+google.*##.g:has(a[href*="gitanswer.com"])
+google.*##.g:has(a[href*="githubplus.com"])
+google.*##.g:has(a[href*="pythonrepo.com"])
+google.*##.g:has(a[href*="bestofcpp.com"])
+google.*##.g:has(a[href*="github.innominds.com"])
+google.*##.g:has(a[href*="www.higithub.com"])
 *://bleepcoder.com/*
 *://githubja.com/*
-*://*.gitmemory.com/*
+*://gitmemory.com/*
 *://giters.com/*
 *://githubmemory.com/*
-*://*.wenyanet.com/*
+*://wenyanet.com/*
 *://issueexplorer.com/*
 *://opensourcelibs.com/*
 *://awesomeopensource.com/*
 *://findbestopensource.com/*
 *://githubhelp.com/*
 searx.tiekoetter.com###urls > article:has(a[href*="pinterest."])
+*://pythonissues.com/*
+*://golangrepo.com/*
+*://gitmemory.cn/*
+*://githubmate.com/*
+*://reposhub.com/*
+*://gitanswer.com/*
+*://githubplus.com/*
+*://pythonrepo.com/*
+*://bestofcpp.com/*
+*://github.innominds.com/*
+*://www.higithub.com/*
 duckduckgo.*##.results > div:has(a[href*="pinterest."])
 google.*##.g:has(a[href*=".pinterest.*"])
 google.*##a[href*=".pinterest."]:upward(1)
@@ -179,8 +212,37 @@ duckduckgo.*##.results > div:has(a[href*="www.qi-u.com"])
 duckduckgo.*##.results > div:has(a[href*="stackqna.com"])
 duckduckgo.*##.results > div:has(a[href*="www.xsprogram.com"])
 duckduckgo.*##.results > div:has(a[href*="stackoom.com"])
-duckduckgo.*##.results > div:has(a[href*="it-swarm-fr.com"])
+duckduckgo.*##.results > div:has(a[href*="it-swarm-fr.com "])
 duckduckgo.*##.results > div:has(a[href*="imtqy.com"])
+duckduckgo.*##.results > div:has(a[href*="christfever.in"])
+duckduckgo.*##.results > div:has(a[href*="codersatellite.com"])
+duckduckgo.*##.results > div:has(a[href*="cndgn.com"])
+duckduckgo.*##.results > div:has(a[href*="coredump.biz"])
+duckduckgo.*##.results > div:has(a[href*="farath.com"])
+duckduckgo.*##.results > div:has(a[href*="devbugfix.com"])
+duckduckgo.*##.results > div:has(a[href*="tech.wayne-chu.com"])
+duckduckgo.*##.results > div:has(a[href*="stackify.dev"])
+duckduckgo.*##.results > div:has(a[href*="webknox.com"])
+duckduckgo.*##.results > div:has(a[href*="stackfinder.jp.net"])
+duckduckgo.*##.results > div:has(a[href*="coder-solution-jp.com"])
+duckduckgo.*##.results > div:has(a[href*="jpndev.com"])
+duckduckgo.*##.results > div:has(a[href*="www.uebu-kaihatsu.jp.net"])
+duckduckgo.*##.results > div:has(a[href*="sqlite.in"])
+duckduckgo.*##.results > div:has(a[href*="stackguides.com"])
+duckduckgo.*##.results > div:has(a[href*="younggeeks.in"])
+duckduckgo.*##.results > div:has(a[href*="www.answerlib.com"])
+duckduckgo.*##.results > div:has(a[href*="edupro.id"])
+duckduckgo.*##.results > div:has(a[href*="python-stack.de"])
+duckduckgo.*##.results > div:has(a[href*="www.stackfinder.ru"])
+duckduckgo.*##.results > div:has(a[href*="stackfault.net"])
+duckduckgo.*##.results > div:has(a[href*="howtofix.io"])
+duckduckgo.*##.results > div:has(a[href*="www.buzzphp.com"])
+duckduckgo.*##.results > div:has(a[href*="www.desenv-web-rp.com"])
+duckduckgo.*##.results > div:has(a[href*="askdev.vn"])
+duckduckgo.*##.results > div:has(a[href*="quares.ru"])
+duckduckgo.*##.results > div:has(a[href*="www.examplefiles.net"])
+duckduckgo.*##.results > div:has(a[href*="codewdw.com"])
+duckduckgo.*##.results > div:has(a[href*="jpcodeqa.com"])
 google.*##.g:has(a[href*="code-examples.net"])
 google.*##.g:has(a[href*="kotaeta.com"])
 google.*##.g:has(a[href*="answer-id.com"])
@@ -293,7 +355,7 @@ google.*##.g:has(a[href*="www.qi-u.com"])
 google.*##.g:has(a[href*="stackqna.com"])
 google.*##.g:has(a[href*="www.xsprogram.com"])
 google.*##.g:has(a[href*="stackoom.com"])
-google.*##.g:has(a[href*="it-swarm-fr.com"])
+google.*##.g:has(a[href*="it-swarm-fr.com "])
 google.*##.g:has(a[href*="imtqy.com"])
 searx.tiekoetter.com###urls > article:has(a[href*="*://code-examples.net/*"])
 searx.tiekoetter.com###urls > article:has(a[href*="*://kotaeta.com/*"])
@@ -409,6 +471,35 @@ searx.tiekoetter.com###urls > article:has(a[href*="*://www.xsprogram.com/*"])
 searx.tiekoetter.com###urls > article:has(a[href*="*://stackoom.com/*"])
 searx.tiekoetter.com###urls > article:has(a[href*="*://*.it-swarm-fr.com/* "])
 searx.tiekoetter.com###urls > article:has(a[href*="*://*.imtqy.com/*"])
+google.*##.g:has(a[href*="christfever.in"])
+google.*##.g:has(a[href*="codersatellite.com"])
+google.*##.g:has(a[href*="cndgn.com"])
+google.*##.g:has(a[href*="coredump.biz"])
+google.*##.g:has(a[href*="farath.com"])
+google.*##.g:has(a[href*="devbugfix.com"])
+google.*##.g:has(a[href*="tech.wayne-chu.com"])
+google.*##.g:has(a[href*="stackify.dev"])
+google.*##.g:has(a[href*="webknox.com"])
+google.*##.g:has(a[href*="stackfinder.jp.net"])
+google.*##.g:has(a[href*="coder-solution-jp.com"])
+google.*##.g:has(a[href*="jpndev.com"])
+google.*##.g:has(a[href*="www.uebu-kaihatsu.jp.net"])
+google.*##.g:has(a[href*="sqlite.in"])
+google.*##.g:has(a[href*="stackguides.com"])
+google.*##.g:has(a[href*="younggeeks.in"])
+google.*##.g:has(a[href*="www.answerlib.com"])
+google.*##.g:has(a[href*="edupro.id"])
+google.*##.g:has(a[href*="python-stack.de"])
+google.*##.g:has(a[href*="www.stackfinder.ru"])
+google.*##.g:has(a[href*="stackfault.net"])
+google.*##.g:has(a[href*="howtofix.io"])
+google.*##.g:has(a[href*="www.buzzphp.com"])
+google.*##.g:has(a[href*="www.desenv-web-rp.com"])
+google.*##.g:has(a[href*="askdev.vn"])
+google.*##.g:has(a[href*="quares.ru"])
+google.*##.g:has(a[href*="www.examplefiles.net"])
+google.*##.g:has(a[href*="codewdw.com"])
+google.*##.g:has(a[href*="jpcodeqa.com"])
 *://code-examples.net/*
 *://kotaeta.com/*
 *://answer-id.com/*
@@ -437,7 +528,7 @@ searx.tiekoetter.com###urls > article:has(a[href*="*://*.imtqy.com/*"])
 *://www.it-mure.jp.net/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm.com.ru/*
-*://*.codeflow.site/*
+*://codeflow.site/*
 *://codeguides.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
@@ -445,53 +536,53 @@ searx.tiekoetter.com###urls > article:has(a[href*="*://*.imtqy.com/*"])
 *://www.generacodice.it/*
 *://www.generacodice.com/*
 *://www.javaer101.com/*
-*://*.voidcc.com/*
-*://*.siwib.org/*
-*://*.fluffyfables.com/*
+*://voidcc.com/*
+*://siwib.org/*
+*://fluffyfables.com/*
 *://www.fixes.pub/*
 *://knews.vip/*
 *://isolution.pro/*
-*://*.uwenku.com/*
+*://uwenku.com/*
 *://lycaeum.dev/*
 *://brocante.dev/*
 *://classmethod.dev/*
 *://stormcrow.dev/*
-*://*.athabasca-foto.com/*
-*://*.zsharp.org/*
-*://*.projectbackpack.org/*
-*://*.waymanamechurch.org/*
-*://*.sunflowercreations.org/*
-*://*.cfadnc.org/*
-*://*.fitforlearning.org/*
-*://*.panaindustrial.com/*
-*://*.sierrasummit2005.org/*
-*://*.theshuggahpies.com/*
-*://*.pcbconline.org/*
+*://athabasca-foto.com/*
+*://zsharp.org/*
+*://projectbackpack.org/*
+*://waymanamechurch.org/*
+*://sunflowercreations.org/*
+*://cfadnc.org/*
+*://fitforlearning.org/*
+*://panaindustrial.com/*
+*://sierrasummit2005.org/*
+*://theshuggahpies.com/*
+*://pcbconline.org/*
 *://www.nuomiphp.com/*
 *://ubuntu.buildwebhost.com/*
 *://ubuntuaa.com/*
 *://www.debugcn.com/*
-*://*.sch22.org/*
-*://*.gupgallery.com/*
-*://*.amuddycup.com/*
-*://*.ecnf2016.org/*
-*://*.softwareuser.asklobster.com/*
-*://*.domainelespailles.net/*
-*://*.ec-europe.org/*
-*://*.pakostnici.com/*
-*://*.try2explore.com/*
+*://sch22.org/*
+*://gupgallery.com/*
+*://amuddycup.com/*
+*://ecnf2016.org/*
+*://softwareuser.asklobster.com/*
+*://domainelespailles.net/*
+*://ec-europe.org/*
+*://pakostnici.com/*
+*://try2explore.com/*
 *://laravelquestions.com/*
 *://itectec.com/*
 *://stackovergo.com/*
-*://*.faithcov.org/*
-*://*.noblenaz.org/*
+*://faithcov.org/*
+*://noblenaz.org/*
 *://www.py4u.net/*
-*://*.culinarydegree.info/*
-*://*.safehavenpetrescue.org/*
+*://culinarydegree.info/*
+*://safehavenpetrescue.org/*
 *://qapicks.com/*
 *://issues-world.com/*
-*://*.narkive.jp/*
-*://*.ourladylakes.org/*
+*://narkive.jp/*
+*://ourladylakes.org/*
 *://intellipaat.com/*
 *://article.docway.net/*
 *://xiu2.net/*
@@ -514,12 +605,42 @@ searx.tiekoetter.com###urls > article:has(a[href*="*://*.imtqy.com/*"])
 *://easysavecode.com/*
 *://webdevdesigner.com/*
 *://www.ghcc.net/*
-*://*.developreference.com/*
+*://developreference.com/*
 *://www.semicolonworld.com/*
 *://tipsfordev.com/*
 *://www.qi-u.com/*
 *://stackqna.com/*
 *://www.xsprogram.com/*
 *://stackoom.com/*
-*://*.it-swarm-fr.com/* 
-*://*.imtqy.com/*
+*://it-swarm-fr.com/* 
+*://imtqy.com/*
+*://christfever.in/*
+*://codersatellite.com/*
+*://cndgn.com/*
+*://coredump.biz/*
+*://farath.com/*
+*://devbugfix.com/*
+*://tech.wayne-chu.com/*
+*://stackify.dev/*
+*://webknox.com/*
+*://stackfinder.jp.net/*
+*://coder-solution-jp.com/*
+*://jpndev.com/*
+*://www.uebu-kaihatsu.jp.net/*
+*://sqlite.in/*
+*://stackguides.com/*
+*://younggeeks.in/*
+*://www.answerlib.com/*
+*://edupro.id/*
+*://python-stack.de/*
+*://www.stackfinder.ru/*
+*://stackfault.net/*
+*://howtofix.io/*
+*://www.buzzphp.com/*
+*://www.desenv-web-rp.com/*
+*://askdev.vn/*
+*://quares.ru/*
+*://www.examplefiles.net/*
+*://codewdw.com/*
+*://jpcodeqa.com/*
+*://tutorialguruji.com/*
