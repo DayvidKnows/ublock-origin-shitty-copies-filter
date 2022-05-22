@@ -1,3 +1,12 @@
+# I'll be using letsblock.it from now on.
+
+You can subscribe to my list via 
+
+[https://get.letsblock.it/list/3541ebfa-0d9f-49c3-8c8a-3496d8f6a9e4](https://get.letsblock.it/list/3541ebfa-0d9f-49c3-8c8a-3496d8f6a9e4)
+
+
+---
+
 # uBlock Origin - Shitty Copy-Paste websites filter
 
 Filter for uBlock origin to remove spam-website results from DuckDuckGo, Google, and a Searx instance that just blatantly copy and paste content from well known websites.
