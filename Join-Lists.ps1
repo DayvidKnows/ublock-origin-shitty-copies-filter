@@ -1,1 +1,1 @@
-Get-Content '*.txt' -Exclude 'combined-list.txt' | Out-File combined-list.txt
+Get-Content -Path "$PSScriptRoot\*.txt" -Exclude 'combined-list.txt' | Out-File "$PSScriptRoot\combined-list.txt" -Force
