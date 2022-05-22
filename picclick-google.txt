@@ -1,0 +1,2 @@
+google.*##.g:has(a[href*=".picclick.*"])
+google.*##a[href*=".picclick."]:upward(1)

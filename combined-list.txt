@@ -86,10 +86,32 @@ searx.tiekoetter.com###urls > article:has(a[href*="*://www.higithub.com/*"])
 *://bestofcpp.com/*
 *://github.innominds.com/*
 *://www.higithub.com/*
-searx.tiekoetter.com###urls > article:has(a[href*="pinterest."])
+duckduckgo.*##.results > div:has(a[href*="picclick."])
+google.*##.g:has(a[href*=".picclick.*"])
+google.*##a[href*=".picclick."]:upward(1)
+searx.tiekoetter.com###urls > article:has(a[href*="picclick."])
+
+*://www.picclick.com/*
+*://www.picclick.ca/*
+*://www.picclick.net/*
+*://www.picclick.co/*
+*://www.picclick.be/*
+*://www.picclick.com.au/*
+*://www.picclick.de/*
+*://www.picclick.co.uk/*
+*://www.picclick.pl/*
+*://www.picclick.at/*
+*://www.picclick.co.in/*
+*://www.picclick.eu/*
+*://www.picclick.cz/*
+*://www.picclick.nl/*
+*://www.picclick.ch/*
+*://www.picclick.in/*
+*://www.picclick.es/*
 duckduckgo.*##.results > div:has(a[href*="pinterest."])
 google.*##.g:has(a[href*=".pinterest.*"])
 google.*##a[href*=".pinterest."]:upward(1)
+searx.tiekoetter.com###urls > article:has(a[href*="pinterest."])
 *://*.pinterest.com/*
 *://www.pinterest.com/*
 *://www.pinterest.nz/*
